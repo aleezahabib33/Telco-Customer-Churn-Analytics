@@ -71,6 +71,17 @@ Developed three interactive dashboard pages:
 - **Customer Risk Analysis:** Churn patterns across tenure, contracts, payment methods, internet services, and monthly charges.
 - **Customer Insights:** Customer demographics, relationships, and subscribed services.
 
+## Power BI Dashboard Preview
+
+### 1. Executive Overview
+![Executive Overview Dashboard](06_Documentation/Dashboard_Screenshots/01_Executive_Overview.png)
+
+### 2. Customer Risk Analysis
+![Customer Risk Analysis Dashboard](06_Documentation/Dashboard_Screenshots/02_Customer_Risk_Analysis.png)
+
+### 3. Customer Insights & Behavior Analysis
+![Customer Insights Dashboard](06_Documentation/Dashboard_Screenshots/03_Customer_Insights.png)
+
 ## Key Findings
 
 | Business Metric | Result |
