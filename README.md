@@ -184,6 +184,6 @@ It highlights practical skills in spreadsheet analysis, SQL, Python, data visual
 
 **Author:** Aleeza Habib
 
-**GitHub:** [Add your GitHub profile URL here]
+**GitHub:** [https://github.com/aleezahabib33]
 
 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/aleezahabib/)
