@@ -84,7 +84,7 @@ Developed three interactive dashboard pages:
 
 ## Key Findings
 
-| Business Metric | Result |
+| Business Metric | Result |Add complete Telecom Customer Churn Analytics projec
 |---|---:|
 | Total Customers | 7,043 |
 | Churned Customers | 1,869 |
