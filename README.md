@@ -73,14 +73,17 @@ Developed three interactive dashboard pages:
 
 ## Power BI Dashboard Preview
 
+### 1. Project Overview
+![Project Overview Dashboard](06_Documentation/Dashboard_Screenshots/01_Home.png)
+
 ### 1. Executive Overview
-![Executive Overview Dashboard](06_Documentation/Dashboard_Screenshots/01_Executive_Overview.png)
+![Executive Overview Dashboard](06_Documentation/Dashboard_Screenshots/02_Executive_Overview.png)
 
 ### 2. Customer Risk Analysis
-![Customer Risk Analysis Dashboard](06_Documentation/Dashboard_Screenshots/02_Customer_Risk_Analysis.png)
+![Customer Risk Analysis Dashboard](06_Documentation/Dashboard_Screenshots/03_Customer_Risk_Analysis.png)
 
 ### 3. Customer Insights & Behavior Analysis
-![Customer Insights Dashboard](06_Documentation/Dashboard_Screenshots/03_Customer_Insights.png)
+![Customer Insights Dashboard](06_Documentation/Dashboard_Screenshots/04_Customer_Insights.png)
 
 ## Key Findings
 
